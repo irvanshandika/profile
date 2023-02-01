@@ -6,7 +6,7 @@
 body {
   color: #2b2c48;
   font-family: "Jost", sans-serif;
-  background-image: url(https://images.unsplash.com/photo-1488866022504-f2584929ca5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80);
+  background-image: url(https://images.unsplash.com/photo-1626362814904-d27009a10da7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -362,3 +362,8 @@ body {
   font-family: "Jost", sans-serif;
   transition: 0.3s;
 } /*# sourceMappingURL=style.css.map */
+.btn {
+  border-radius: 24px;
+  background: #b9f3fc;
+  box-shadow: -5px 5px 0px #4a6165, 5px -5px 0px #ffffff;
+}
